@@ -73,5 +73,5 @@ def main(url):
         print("Failed to generate translated summary.")
 
 # URLを指定して関数を呼び出し
-url = 'url'
+url = 'https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-march-2024-feature-update/'
 main(url)
