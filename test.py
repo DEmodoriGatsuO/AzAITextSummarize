@@ -57,7 +57,7 @@ def summarize_and_translate(url):
                 {"role": "user", "content": summary}
             ]
         )
-        # comment
+        # comment comment
         return response.choices[0].message.content
 
     except Exception as e:
