@@ -5,6 +5,4 @@
 azure-functions
 requests
 beautifulsoup4
-azure-ai-textanalytics
-azure-core
-uuid
+openai
